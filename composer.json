@@ -1,0 +1,16 @@
+{
+  "name": "ingenerator/no-robloach-component-installer",
+  "description": "Disables the robloach/component-installer to skip post-processing of asset packages",
+  "type": "library",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Andrew Coulton",
+      "homepage": "http://www.ingenerator.com"
+    }
+  ],
+  "require": {},
+  "replace": {
+    "robloach/component-installer": "*"
+  }
+}
